@@ -7169,7 +7169,8 @@
 <p style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Noví vyliečení:</span></span></p>
 <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">• žena, bola hospitalizovaná vo FN Trenčín , následne poslaná do domácej karantény,</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">• žena, bola hospitalizovaná vo FN Trenčín, následne poslaná do domácej karantény,</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">• muž, iba domáca karanténa.</span></p>
 <p style="text-align: justify;"><span style="text-decoration: underline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Stručný prehľad nových 24 potvrdených prípadov:</span></span></p>
-<table style="width: 264px; border-collapse: collapse;" cellspacing="0" cellpadding="0" border="0">
+<div>
+<table style="width: 264px; border-collapse: collapse;" cellspacing="0" cellpadding="0" border="1">
 <tbody>
 <tr style="height: 14.5pt;">
 <td style="width: 48pt; border: 1pt solid windowtext; background: #5b9bd5 none repeat scroll 0% 0%; padding: 0cm 5.4pt; height: 14.5pt;" width="64" valign="bottom" nowrap>
@@ -7448,6 +7449,7 @@
 </tr>
 </tbody>
 </table>
+</div>
 <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><br style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"></span><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"></span></p>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
