@@ -16531,22 +16531,22 @@
 <table border="0" align="center">
 <tbody>
 <tr>
-<td><span face="Arial" size="2" style="text-align: center; font-family: Arial; font-size: 10pt;"><a href="/docs/info/covid19/WHO_kampan_zachran_zivoty.pdf" target="_blank"><img src="/images/stories/info/coronavirus2019/WHO_kampan_zachran_zivoty.jpg" width="300" height="411" alt="WHO_kampan_zachran_zivoty" style="border-width: 1px; border-style: solid; border-color: #cccccc; float: left;"></a>   <span style="text-align: center; font-family: Arial; font-size: 10pt;"></span></span></td>
+<td valign="top"><span face="Arial" size="2" style="text-align: center; font-family: Arial; font-size: 10pt;"><a href="/docs/info/covid19/WHO_kampan_zachran_zivoty.pdf" target="_blank"><img src="/images/stories/info/coronavirus2019/WHO_kampan_zachran_zivoty.jpg" width="300" height="411" alt="WHO_kampan_zachran_zivoty" style="border-width: 1px; border-style: solid; border-color: #cccccc; float: left;"></a>   <span style="text-align: center; font-family: Arial; font-size: 10pt;"></span></span></td>
 <td valign="top" style="text-align: right;"><span style="font-family: Arial; font-size: 13.3333px; text-align: center;">
 
 <!-- JoomlaWorks "AllVideos" Plugin (v4.8.0) starts here -->
 
 <div class="avPlayerWrapper avVideo">
-	<div style="width:360px;" class="avPlayerContainer">
+	<div style="width:450px;" class="avPlayerContainer">
 		<div id="AVPlayerID_0_dbe68594bb34df1c2eb45a3fc1e04d8b" class="avPlayerBlock">
 			
-<div id="avID_AVPlayerID_0_dbe68594bb34df1c2eb45a3fc1e04d8b" style="width:360px;height:640px;" title="JoomlaWorks AllVideos Player"></div>
+<div id="avID_AVPlayerID_0_dbe68594bb34df1c2eb45a3fc1e04d8b" style="width:450px;height:800px;" title="JoomlaWorks AllVideos Player"></div>
 <script type="text/javascript">
     var player = new Clappr.Player({
         source: 'http://www.uvzsr.sk/images/stories/videos/Ruky_UVZSR_2_2020_v2.mp4',
         poster: 'http://www.uvzsr.sk/images/stories/videos/Ruky_UVZSR_2_2020_v2.jpg',
-        height: '640',
-        width: '360',
+        height: '800',
+        width: '450',
         autoPlay: true,
         loop: false,
         //hideMediaControl: 1,
