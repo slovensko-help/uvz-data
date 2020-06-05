@@ -22838,7 +22838,7 @@
       <pubDate>Fri, 05 Jun 2020 07:47:00 +0000</pubDate>
       <link>http://www.uvzsr.sk/index.php?option=com_content&amp;view=article&amp;id=4337:prehad-potu-pripadov-ochorenia-covid-19-v-europe-k-4-6-2020&amp;catid=250:koronavirus-2019-ncov&amp;Itemid=153</link>
       <guid>http://www.uvzsr.sk/index.php?option=com_content&amp;view=article&amp;id=4337:prehad-potu-pripadov-ochorenia-covid-19-v-europe-k-4-6-2020&amp;catid=250:koronavirus-2019-ncov&amp;Itemid=153</guid>
-      <content:encoded><![CDATA[<p style="margin-top: 0px; margin-bottom: 0px;"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;">Prehľad počtu prípadov ochorenia COVID-19 v Európe k 4. 6. 2020 - tabuľka</span></p>
+      <content:encoded><![CDATA[<p style="margin-top: 0px; margin-bottom: 0px;"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;"><strong>Prehľad počtu prípadov ochorenia COVID-19 v Európe k 4. 6. 2020 - tabuľka</strong><br></span></p>
 
 <table border="0" cellpadding="0" style="width: 700px; border-collapse: collapse;">
 <tbody>
@@ -23378,7 +23378,7 @@
 <td width="83" valign="top" style="width: 62pt; height: 15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; padding: 0cm 3.5pt; background: yellow;">
 <p align="right" style="text-align: right; line-height: normal; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 10pt;"><b><span style="font-family: Arial; color: #333333;"><span size="2">0.5</span></span></b></span></p>
 </td>
-<td width="107" nowrap valign="bottom" style="width: 80pt; height: 15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; padding: 0cm 3.5pt;">
+<td width="107" nowrap valign="bottom" bgcolor="#FFFF00" style="width: 80pt; height: 15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; padding: 0cm 3.5pt;">
 <p align="right" style="text-align: right; line-height: normal; margin-top: 0px; margin-bottom: 0px;"><span style="font-family: Arial; color: black; font-size: 10pt;"><span size="2">29</span></span></p>
 </td>
 </tr>
