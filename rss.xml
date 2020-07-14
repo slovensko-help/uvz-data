@@ -4,8 +4,8 @@
     <language>sk-SK</language>
     <title>COVID-19 - ÚVZ SR</title>
     <description>Články o COVID-19 z webu Úradu verejného zdravotníctva Slovenskej republiky</description>
-    <pubDate>Mon, 13 Jul 2020 17:54:00 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2020 17:54:00 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2020 19:02:00 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2020 19:02:00 +0000</lastBuildDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>http://www.uvzsr.sk/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=250&amp;Itemid=153</link>
     <item>
@@ -24462,14 +24462,12 @@
     </item>
     <item>
       <title>ÚVZ SR: Kontakty na regionálne úrady verejného zdravotníctva v SR po príchode z rizikových krajín</title>
-      <pubDate>Tue, 07 Jul 2020 14:19:26 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2020 19:02:00 +0000</pubDate>
       <link>http://www.uvzsr.sk/index.php?option=com_content&amp;view=article&amp;id=4387:uvz-sr-kontakty-na-regionalne-urady-verejneho-zdravotnictva-vnsr-po-prichode-znrizikovych-krajin&amp;catid=250:koronavirus-2019-ncov&amp;Itemid=153</link>
       <guid>http://www.uvzsr.sk/index.php?option=com_content&amp;view=article&amp;id=4387:uvz-sr-kontakty-na-regionalne-urady-verejneho-zdravotnictva-vnsr-po-prichode-znrizikovych-krajin&amp;catid=250:koronavirus-2019-ncov&amp;Itemid=153</guid>
       <content:encoded><![CDATA[<p style="margin-top: 0px; margin-bottom: 0px;" align="justify"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;">Všetky osoby, ktoré od 6. júla 2020 od 7:00 vstúpia na územie Slovenskej republiky, pričom počas predchádzajúcich 14 dní navštívili krajinu neuvedenú v zozname menej rizikových krajín (v zozname sú: Austrália, Belgicko, Cyprus, Česká republika, Čína, Dánsko, Estónsko, Faerské ostrovy, Fínsko, Francúzsko, Grécko, Chorvátsko, Holandsko, Írsko, Island, Japonsko, Južná Kórea, Lichtenštajnsko, Litva, Lotyšsko, Maďarsko, Malta, Monako, Nemecko, Nórsko, Nový Zéland, Poľsko, Rakúsko, Slovinsko, Španielsko, Švajčiarsko a Taliansko), sa musia prihlásiť na miestne príslušný regionálny úrad verejného zdravotníctva, ktorý im pomôže zorientovať sa v situácii, oboznámi ich s pravidlami domácej izolácie a zmanažuje testovanie na ochorenie COVID-19.</span></p>
 <p style="margin-top: 0px; margin-bottom: 0px;" align="justify"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;"><br> Izolácia v domácom prostredí je nariadená až do obdržania negatívneho výsledku RT-PCR testu na ochorenie COVID-19. Laboratórnej diagnostike na ochorenie COVID-19 sa osoby musia podrobiť najskôr na piaty deň izolácie. Domáca izolácia sa nariaďuje i ostatným osobám žijúcim v spoločnej domácnosti. </span></p>
-
-
-
+
 <p style="margin-top: 0px; margin-bottom: 0px;" align="justify"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;"><br> Zároveň všetky osoby, ktoré počas posledných 14 dní navštívili tzv. rizikovú krajinu a prídu na územie SR od 10. júna od 7:00, sa musia hlásiť aj svojmu ošetrujúcemu lekárovi, ktorý im vystaví PN z dôvodu karantény pre COVID-19. </span></p>
 <p style="margin-top: 0px; margin-bottom: 0px;" align="justify"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;"><br> Ak sa u osôb po návrate zo zahraničia, bez ohľadu na to, z ktorej krajiny prišli, prejavia príznaky respiračného  ochorenia, je potrebné telefonicky kontaktovať svojho ošetrujúceho lekára a oboznámiť ho s cestovateľskou anamnézou. Lekár následne určí ďalší postup diagnostiky a liečby. To isté platí aj pre osoby, u ktorých sa objavia príznaky respiračného ochorenia a vedia, že boli v kontakte s osobou, ktorá prišla zo zahraničia.</span></p>
 <p style="text-align: center; margin-top: 0px; margin-bottom: 0px;" align="center"><span face="Arial" size="2" style="font-family: Arial; font-size: 10pt;"><b><br> Kontakty na regionálne úrady verejného zdravotníctva v SR</b></span></p>
@@ -24508,10 +24506,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy39100 = 'tn.c&#111;v&#105;d19' + '&#64;';
- addy39100 = addy39100 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy39100 + suffix + '\'' + attribs + '>' );
- document.write( addy39100 );
+ var addy4369 = 'tn.c&#111;v&#105;d19' + '&#64;';
+ addy4369 = addy4369 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy4369 + suffix + '\'' + attribs + '>' );
+ document.write( addy4369 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24543,10 +24541,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy29338 = 'epidbb' + '@';
- addy29338 = addy29338 + 'vzbb' + '.' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy29338 + suffix + '\'' + attribs + '>' );
- document.write( addy29338 );
+ var addy75987 = 'epidbb' + '@';
+ addy75987 = addy75987 + 'vzbb' + '.' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy75987 + suffix + '\'' + attribs + '>' );
+ document.write( addy75987 );
  document.write( '<\/a>' );
  //-->%0A%20&lt;/script&gt;&lt;script%20language='JavaScript'%20type='text/javascript'&gt;%0A%20<!--
  document.write( '<span style=\'display: none;\'>' );
@@ -24560,10 +24558,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy69236 = '&#101;p&#105;dbb' + '&#64;';
- addy69236 = addy69236 + 'vzbb' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy69236 + suffix + '\'' + attribs + '>' );
- document.write( addy69236 );
+ var addy86444 = '&#101;p&#105;dbb' + '&#64;';
+ addy86444 = addy86444 + 'vzbb' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy86444 + suffix + '\'' + attribs + '>' );
+ document.write( addy86444 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24576,7 +24574,7 @@
  document.write( '</' );
  document.write( 'span>' );
  //-->
- </script><br></a> <a href="http://www.vzbb.sk/sk/aktuality/spravy/covid_19/covid_form02.pdf" style="text-decoration: underline;"> Formulár na stiahnutie</a></span></span></p>
+ </script><br></a> <a href="http://www.vzbb.sk/sk/aktuality/spravy/covid_19/covid_form03.pdf" style="text-decoration: underline;" target="_blank"> Formulár na stiahnutie</a></span></span></p>
 </td>
 </tr>
 <tr style="height: 5pt;">
@@ -24597,10 +24595,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy27638 = 'zh.&#101;p&#105;d' + '&#64;';
- addy27638 = addy27638 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy27638 + suffix + '\'' + attribs + '>' );
- document.write( addy27638 );
+ var addy71006 = 'zh.&#101;p&#105;d' + '&#64;';
+ addy71006 = addy71006 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy71006 + suffix + '\'' + attribs + '>' );
+ document.write( addy71006 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24639,10 +24637,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy92391 = 'bj.&#101;p&#105;d&#97;' + '&#64;';
- addy92391 = addy92391 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy92391 + suffix + '\'' + attribs + '>' );
- document.write( addy92391 );
+ var addy49174 = 'bj.&#101;p&#105;d&#97;' + '&#64;';
+ addy49174 = addy49174 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy49174 + suffix + '\'' + attribs + '>' );
+ document.write( addy49174 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24693,17 +24691,32 @@
 <p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;">918 659 580</span></span></p>
 </td>
 <td style="width: 117pt; height: 15pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-left-color: initial; border-right-color: #a5a5a5; border-top-color: #a5a5a5; border-bottom-color: #a5a5a5; padding: 0cm 5.4pt;" width="156" valign="top">
-<p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;">
+<p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;"><a href="mailto:%0A%20&lt;script%20language='JavaScript'%20type='text/javascript'&gt;%0A%20<!--
+ var prefix = 'mailto:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy29033 = 'epidbb' + '@';
+ addy29033 = addy29033 + 'vzbb' + '.' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy29033 + suffix + '\'' + attribs + '>' );
+ document.write( addy29033 );
+ document.write( '<\/a>' );
+ //-->%0A%20&lt;/script&gt;&lt;script%20language='JavaScript'%20type='text/javascript'&gt;%0A%20<!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->%0A%20&lt;/script&gt;T%C3%A1to%20adresa%20je%20chr%C3%A1nen%C3%A1%20pred%20robotmi%20nevy%C5%BEiadanej%20po%C5%A1ty.%20Ak%20ju%20chcete%20vidie%C5%A5,%20mus%C3%ADte%20ma%C5%A5%20povolen%C3%BD%20JavaScript.%0A%20&lt;script%20language='JavaScript'%20type='text/javascript'&gt;%0A%20<!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->%0A%20&lt;/script&gt;">
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = 'm&#97;&#105;lt&#111;:';
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy30277 = '&#101;p&#105;dbb' + '&#64;';
- addy30277 = addy30277 + 'vzbb' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy30277 + suffix + '\'' + attribs + '>' );
- document.write( addy30277 );
+ var addy70470 = '&#101;p&#105;dbb' + '&#64;';
+ addy70470 = addy70470 + 'vzbb' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy70470 + suffix + '\'' + attribs + '>' );
+ document.write( addy70470 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24716,7 +24729,8 @@
  document.write( '</' );
  document.write( 'span>' );
  //-->
- </script></span></span></p>
+ </script><br></a></span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><a href="http://www.vzbb.sk/sk/aktuality/spravy/covid_19/covid_form03.pdf" target="_blank">Formulár na stiahnutie</a></span></p>
+<p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"></p>
 </td>
 </tr>
 <tr style="height: 4.7pt;">
@@ -24737,10 +24751,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy76362 = 'z&#97;.&#101;p&#105;' + '&#64;';
- addy76362 = addy76362 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy76362 + suffix + '\'' + attribs + '>' );
- document.write( addy76362 );
+ var addy24787 = 'z&#97;.&#101;p&#105;' + '&#64;';
+ addy24787 = addy24787 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy24787 + suffix + '\'' + attribs + '>' );
+ document.write( addy24787 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24779,10 +24793,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy42581 = 'c&#97;.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
- addy42581 = addy42581 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy42581 + suffix + '\'' + attribs + '>' );
- document.write( addy42581 );
+ var addy61208 = 'c&#97;.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
+ addy61208 = addy61208 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy61208 + suffix + '\'' + attribs + '>' );
+ document.write( addy61208 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24816,10 +24830,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy9357 = 'zv.&#101;p&#105;d' + '&#64;';
- addy9357 = addy9357 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy9357 + suffix + '\'' + attribs + '>' );
- document.write( addy9357 );
+ var addy75711 = 'zv.&#101;p&#105;d' + '&#64;';
+ addy75711 = addy75711 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy75711 + suffix + '\'' + attribs + '>' );
+ document.write( addy75711 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24853,10 +24867,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy39316 = 'dk.&#101;pd' + '&#64;';
- addy39316 = addy39316 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy39316 + suffix + '\'' + attribs + '>' );
- document.write( addy39316 );
+ var addy1097 = 'dk.&#101;pd' + '&#64;';
+ addy1097 = addy1097 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy1097 + suffix + '\'' + attribs + '>' );
+ document.write( addy1097 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24890,10 +24904,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy3277 = 'ds.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
- addy3277 = addy3277 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy3277 + suffix + '\'' + attribs + '>' );
- document.write( addy3277 );
+ var addy21925 = 'ds.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
+ addy21925 = addy21925 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy21925 + suffix + '\'' + attribs + '>' );
+ document.write( addy21925 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24937,10 +24951,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy74526 = 'g&#97;.&#101;p&#105;d' + '&#64;';
- addy74526 = addy74526 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy74526 + suffix + '\'' + attribs + '>' );
- document.write( addy74526 );
+ var addy58533 = 'g&#97;.&#101;p&#105;d' + '&#64;';
+ addy58533 = addy58533 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy58533 + suffix + '\'' + attribs + '>' );
+ document.write( addy58533 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -24988,10 +25002,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy33837 = 'tt.&#101;p&#105;d&#97;' + '&#64;';
- addy33837 = addy33837 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy33837 + suffix + '\'' + attribs + '>' );
- document.write( addy33837 );
+ var addy7670 = 'tt.&#101;p&#105;d&#97;' + '&#64;';
+ addy7670 = addy7670 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy7670 + suffix + '\'' + attribs + '>' );
+ document.write( addy7670 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25025,10 +25039,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy35338 = 'hn.&#101;p&#105;' + '&#64;';
- addy35338 = addy35338 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy35338 + suffix + '\'' + attribs + '>' );
- document.write( addy35338 );
+ var addy22508 = 'hn.&#101;p&#105;' + '&#64;';
+ addy22508 = addy22508 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy22508 + suffix + '\'' + attribs + '>' );
+ document.write( addy22508 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25067,10 +25081,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy36833 = 'pb.&#101;p&#105;d' + '&#64;';
- addy36833 = addy36833 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy36833 + suffix + '\'' + attribs + '>' );
- document.write( addy36833 );
+ var addy311 = 'pb.&#101;p&#105;d' + '&#64;';
+ addy311 = addy311 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy311 + suffix + '\'' + attribs + '>' );
+ document.write( addy311 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25126,10 +25140,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy35926 = 'koronaviruskn' + '@';
- addy35926 = addy35926 + 'uvzsr' + '.' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy35926 + suffix + '\'' + attribs + '>' );
- document.write( addy35926 );
+ var addy31923 = 'koronaviruskn' + '@';
+ addy31923 = addy31923 + 'uvzsr' + '.' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy31923 + suffix + '\'' + attribs + '>' );
+ document.write( addy31923 );
  document.write( '<\/a>' );
  //-->%0A%20&lt;/script&gt;&lt;script%20language='JavaScript'%20type='text/javascript'&gt;%0A%20<!--
  document.write( '<span style=\'display: none;\'>' );
@@ -25143,10 +25157,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy47285 = 'k&#111;r&#111;n&#97;v&#105;r&#117;skn' + '&#64;';
- addy47285 = addy47285 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy47285 + suffix + '\'' + attribs + '>' );
- document.write( addy47285 );
+ var addy25885 = 'k&#111;r&#111;n&#97;v&#105;r&#117;skn' + '&#64;';
+ addy25885 = addy25885 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy25885 + suffix + '\'' + attribs + '>' );
+ document.write( addy25885 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25197,10 +25211,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy19145 = 'zv.&#101;p&#105;d' + '&#64;';
- addy19145 = addy19145 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy19145 + suffix + '\'' + attribs + '>' );
- document.write( addy19145 );
+ var addy28190 = 'zv.&#101;p&#105;d' + '&#64;';
+ addy28190 = addy28190 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy28190 + suffix + '\'' + attribs + '>' );
+ document.write( addy28190 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25234,10 +25248,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy16952 = 'c&#97;.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
- addy16952 = addy16952 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy16952 + suffix + '\'' + attribs + '>' );
- document.write( addy16952 );
+ var addy85770 = 'c&#97;.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
+ addy85770 = addy85770 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy85770 + suffix + '\'' + attribs + '>' );
+ document.write( addy85770 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25269,10 +25283,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy46234 = 'lv.epid' + '@';
- addy46234 = addy46234 + 'uvzsr' + '.' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy46234 + suffix + '\'' + attribs + '>' );
- document.write( addy46234 );
+ var addy66051 = 'lv.epid' + '@';
+ addy66051 = addy66051 + 'uvzsr' + '.' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy66051 + suffix + '\'' + attribs + '>' );
+ document.write( addy66051 );
  document.write( '<\/a>' );
  //-->%0A%20&lt;/script&gt;&lt;script%20language='JavaScript'%20type='text/javascript'&gt;%0A%20<!--
  document.write( '<span style=\'display: none;\'>' );
@@ -25286,10 +25300,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy3979 = 'lv.&#101;p&#105;d' + '&#64;';
- addy3979 = addy3979 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy3979 + suffix + '\'' + attribs + '>' );
- document.write( addy3979 );
+ var addy99327 = 'lv.&#101;p&#105;d' + '&#64;';
+ addy99327 = addy99327 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy99327 + suffix + '\'' + attribs + '>' );
+ document.write( addy99327 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25342,10 +25356,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy71270 = 'lm.&#111;&#101;' + '&#64;';
- addy71270 = addy71270 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy71270 + suffix + '\'' + attribs + '>' );
- document.write( addy71270 );
+ var addy29978 = 'lm.&#111;&#101;' + '&#64;';
+ addy29978 = addy29978 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy29978 + suffix + '\'' + attribs + '>' );
+ document.write( addy29978 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25384,10 +25398,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy90865 = 'lc.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
- addy90865 = addy90865 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy90865 + suffix + '\'' + attribs + '>' );
- document.write( addy90865 );
+ var addy4990 = 'lc.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
+ addy4990 = addy4990 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy4990 + suffix + '\'' + attribs + '>' );
+ document.write( addy4990 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25435,10 +25449,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy5206 = 'mt.&#101;p&#105;d' + '&#64;';
- addy5206 = addy5206 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy5206 + suffix + '\'' + attribs + '>' );
- document.write( addy5206 );
+ var addy28768 = 'mt.&#101;p&#105;d' + '&#64;';
+ addy28768 = addy28768 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy28768 + suffix + '\'' + attribs + '>' );
+ document.write( addy28768 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25472,10 +25486,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy74361 = 'hn.&#101;p&#105;' + '&#64;';
- addy74361 = addy74361 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy74361 + suffix + '\'' + attribs + '>' );
- document.write( addy74361 );
+ var addy36950 = 'hn.&#101;p&#105;' + '&#64;';
+ addy36950 = addy36950 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy36950 + suffix + '\'' + attribs + '>' );
+ document.write( addy36950 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25514,10 +25528,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy50264 = 'm&#105;.&#101;p&#105;d' + '&#64;';
- addy50264 = addy50264 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy50264 + suffix + '\'' + attribs + '>' );
- document.write( addy50264 );
+ var addy51325 = 'm&#105;.&#101;p&#105;d' + '&#64;';
+ addy51325 = addy51325 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy51325 + suffix + '\'' + attribs + '>' );
+ document.write( addy51325 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25556,10 +25570,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy57468 = 'tn.c&#111;v&#105;d19' + '&#64;';
- addy57468 = addy57468 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy57468 + suffix + '\'' + attribs + '>' );
- document.write( addy57468 );
+ var addy57580 = 'tn.c&#111;v&#105;d19' + '&#64;';
+ addy57580 = addy57580 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy57580 + suffix + '\'' + attribs + '>' );
+ document.write( addy57580 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25593,10 +25607,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy79901 = 'dk.&#101;pd' + '&#64;';
- addy79901 = addy79901 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy79901 + suffix + '\'' + attribs + '>' );
- document.write( addy79901 );
+ var addy89366 = 'dk.&#101;pd' + '&#64;';
+ addy89366 = addy89366 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy89366 + suffix + '\'' + attribs + '>' );
+ document.write( addy89366 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25630,10 +25644,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy72796 = 'nr.&#101;p&#105;d&#97;r&#111;' + '&#64;';
- addy72796 = addy72796 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy72796 + suffix + '\'' + attribs + '>' );
- document.write( addy72796 );
+ var addy68428 = 'nr.&#101;p&#105;d&#97;r&#111;' + '&#64;';
+ addy68428 = addy68428 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy68428 + suffix + '\'' + attribs + '>' );
+ document.write( addy68428 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25654,10 +25668,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy34238 = 'nr.&#111;ck&#111;v&#97;n&#105;&#101;' + '&#64;';
- addy34238 = addy34238 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy34238 + suffix + '\'' + attribs + '>' );
- document.write( addy34238 );
+ var addy49294 = 'nr.&#111;ck&#111;v&#97;n&#105;&#101;' + '&#64;';
+ addy49294 = addy49294 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy49294 + suffix + '\'' + attribs + '>' );
+ document.write( addy49294 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25696,10 +25710,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy74023 = 'tn.c&#111;v&#105;d19' + '&#64;';
- addy74023 = addy74023 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy74023 + suffix + '\'' + attribs + '>' );
- document.write( addy74023 );
+ var addy87783 = 'tn.c&#111;v&#105;d19' + '&#64;';
+ addy87783 = addy87783 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy87783 + suffix + '\'' + attribs + '>' );
+ document.write( addy87783 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25733,10 +25747,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy35322 = 'nz.&#101;p&#105;d' + '&#64;';
- addy35322 = addy35322 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy35322 + suffix + '\'' + attribs + '>' );
- document.write( addy35322 );
+ var addy66646 = 'nz.&#101;p&#105;d' + '&#64;';
+ addy66646 = addy66646 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy66646 + suffix + '\'' + attribs + '>' );
+ document.write( addy66646 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25775,10 +25789,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy44329 = 'k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
- addy44329 = addy44329 + 'r&#117;vzpd' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy44329 + suffix + '\'' + attribs + '>' );
- document.write( addy44329 );
+ var addy29641 = 'k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
+ addy29641 = addy29641 + 'r&#117;vzpd' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy29641 + suffix + '\'' + attribs + '>' );
+ document.write( addy29641 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25826,10 +25840,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy13828 = 'tt.&#101;p&#105;d&#97;' + '&#64;';
- addy13828 = addy13828 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy13828 + suffix + '\'' + attribs + '>' );
- document.write( addy13828 );
+ var addy89136 = 'tt.&#101;p&#105;d&#97;' + '&#64;';
+ addy89136 = addy89136 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy89136 + suffix + '\'' + attribs + '>' );
+ document.write( addy89136 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25863,10 +25877,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy89321 = 'lc.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
- addy89321 = addy89321 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy89321 + suffix + '\'' + attribs + '>' );
- document.write( addy89321 );
+ var addy13097 = 'lc.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
+ addy13097 = addy13097 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy13097 + suffix + '\'' + attribs + '>' );
+ document.write( addy13097 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25914,10 +25928,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy13948 = 'pb.&#101;p&#105;d' + '&#64;';
- addy13948 = addy13948 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy13948 + suffix + '\'' + attribs + '>' );
- document.write( addy13948 );
+ var addy65329 = 'pb.&#101;p&#105;d' + '&#64;';
+ addy65329 = addy65329 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy65329 + suffix + '\'' + attribs + '>' );
+ document.write( addy65329 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25961,10 +25975,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy42027 = 'p&#111;.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
- addy42027 = addy42027 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy42027 + suffix + '\'' + attribs + '>' );
- document.write( addy42027 );
+ var addy13266 = 'p&#111;.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
+ addy13266 = addy13266 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy13266 + suffix + '\'' + attribs + '>' );
+ document.write( addy13266 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -25985,10 +25999,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy28421 = 'p&#111;.s&#101;kr&#101;t&#97;r&#105;&#97;t' + '&#64;';
- addy28421 = addy28421 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy28421 + suffix + '\'' + attribs + '>' );
- document.write( addy28421 );
+ var addy71969 = 'p&#111;.s&#101;kr&#101;t&#97;r&#105;&#97;t' + '&#64;';
+ addy71969 = addy71969 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy71969 + suffix + '\'' + attribs + '>' );
+ document.write( addy71969 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26009,10 +26023,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy41586 = 'p&#111;.r&#105;&#97;d&#105;t&#101;l' + '&#64;';
- addy41586 = addy41586 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy41586 + suffix + '\'' + attribs + '>' );
- document.write( addy41586 );
+ var addy69697 = 'p&#111;.r&#105;&#97;d&#105;t&#101;l' + '&#64;';
+ addy69697 = addy69697 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy69697 + suffix + '\'' + attribs + '>' );
+ document.write( addy69697 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26076,10 +26090,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy34418 = 'k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
- addy34418 = addy34418 + 'r&#117;vzpd' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy34418 + suffix + '\'' + attribs + '>' );
- document.write( addy34418 );
+ var addy84272 = 'k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
+ addy84272 = addy84272 + 'r&#117;vzpd' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy84272 + suffix + '\'' + attribs + '>' );
+ document.write( addy84272 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26113,10 +26127,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy58697 = 'pb.&#101;p&#105;d' + '&#64;';
- addy58697 = addy58697 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy58697 + suffix + '\'' + attribs + '>' );
- document.write( addy58697 );
+ var addy21142 = 'pb.&#101;p&#105;d' + '&#64;';
+ addy21142 = addy21142 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy21142 + suffix + '\'' + attribs + '>' );
+ document.write( addy21142 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26160,10 +26174,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy17948 = 'rs.&#101;p&#105;d' + '&#64;';
- addy17948 = addy17948 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy17948 + suffix + '\'' + attribs + '>' );
- document.write( addy17948 );
+ var addy94484 = 'rs.&#101;p&#105;d' + '&#64;';
+ addy94484 = addy94484 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy94484 + suffix + '\'' + attribs + '>' );
+ document.write( addy94484 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26197,10 +26211,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy76998 = 'rs.&#101;p&#105;d' + '&#64;';
- addy76998 = addy76998 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy76998 + suffix + '\'' + attribs + '>' );
- document.write( addy76998 );
+ var addy45480 = 'rs.&#101;p&#105;d' + '&#64;';
+ addy45480 = addy45480 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy45480 + suffix + '\'' + attribs + '>' );
+ document.write( addy45480 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26234,10 +26248,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy68054 = 'rv.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
- addy68054 = addy68054 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy68054 + suffix + '\'' + attribs + '>' );
- document.write( addy68054 );
+ var addy96852 = 'rv.k&#111;r&#111;n&#97;v&#105;r&#117;s' + '&#64;';
+ addy96852 = addy96852 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy96852 + suffix + '\'' + attribs + '>' );
+ document.write( addy96852 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26271,10 +26285,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy57263 = 'lm.&#111;&#101;' + '&#64;';
- addy57263 = addy57263 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy57263 + suffix + '\'' + attribs + '>' );
- document.write( addy57263 );
+ var addy95581 = 'lm.&#111;&#101;' + '&#64;';
+ addy95581 = addy95581 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy95581 + suffix + '\'' + attribs + '>' );
+ document.write( addy95581 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26313,10 +26327,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy80275 = 'p&#111;.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
- addy80275 = addy80275 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy80275 + suffix + '\'' + attribs + '>' );
- document.write( addy80275 );
+ var addy67404 = 'p&#111;.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
+ addy67404 = addy67404 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy67404 + suffix + '\'' + attribs + '>' );
+ document.write( addy67404 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26337,10 +26351,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy42579 = 'p&#111;.s&#101;kr&#101;t&#97;r&#105;&#97;t' + '&#64;';
- addy42579 = addy42579 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy42579 + suffix + '\'' + attribs + '>' );
- document.write( addy42579 );
+ var addy55385 = 'p&#111;.s&#101;kr&#101;t&#97;r&#105;&#97;t' + '&#64;';
+ addy55385 = addy55385 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy55385 + suffix + '\'' + attribs + '>' );
+ document.write( addy55385 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26361,10 +26375,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy91099 = 'p&#111;.s&#101;kr&#101;t&#97;r&#105;&#97;t' + '&#64;';
- addy91099 = addy91099 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy91099 + suffix + '\'' + attribs + '>' );
- document.write( addy91099 );
+ var addy3250 = 'p&#111;.s&#101;kr&#101;t&#97;r&#105;&#97;t' + '&#64;';
+ addy3250 = addy3250 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy3250 + suffix + '\'' + attribs + '>' );
+ document.write( addy3250 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26470,10 +26484,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy15613 = 'hn.&#101;p&#105;' + '&#64;';
- addy15613 = addy15613 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy15613 + suffix + '\'' + attribs + '>' );
- document.write( addy15613 );
+ var addy89911 = 'hn.&#101;p&#105;' + '&#64;';
+ addy89911 = addy89911 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy89911 + suffix + '\'' + attribs + '>' );
+ document.write( addy89911 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26512,10 +26526,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy79411 = 'm&#105;.&#101;p&#105;d' + '&#64;';
- addy79411 = addy79411 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy79411 + suffix + '\'' + attribs + '>' );
- document.write( addy79411 );
+ var addy55696 = 'm&#105;.&#101;p&#105;d' + '&#64;';
+ addy55696 = addy55696 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy55696 + suffix + '\'' + attribs + '>' );
+ document.write( addy55696 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26568,10 +26582,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy10243 = 'sl.&#101;p&#105;d&#97;' + '&#64;';
- addy10243 = addy10243 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy10243 + suffix + '\'' + attribs + '>' );
- document.write( addy10243 );
+ var addy31440 = 'sl.&#101;p&#105;d&#97;' + '&#64;';
+ addy31440 = addy31440 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy31440 + suffix + '\'' + attribs + '>' );
+ document.write( addy31440 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26610,10 +26624,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy32565 = 'sk.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
- addy32565 = addy32565 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy32565 + suffix + '\'' + attribs + '>' );
- document.write( addy32565 );
+ var addy75681 = 'sk.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
+ addy75681 = addy75681 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy75681 + suffix + '\'' + attribs + '>' );
+ document.write( addy75681 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26647,10 +26661,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy50681 = 'sk.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
- addy50681 = addy50681 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy50681 + suffix + '\'' + attribs + '>' );
- document.write( addy50681 );
+ var addy85673 = 'sk.&#101;p&#105;d&#101;m&#105;&#111;l&#111;g&#105;&#97;' + '&#64;';
+ addy85673 = addy85673 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy85673 + suffix + '\'' + attribs + '>' );
+ document.write( addy85673 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26684,10 +26698,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy1108 = 'nr.&#101;p&#105;d&#97;r&#111;' + '&#64;';
- addy1108 = addy1108 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy1108 + suffix + '\'' + attribs + '>' );
- document.write( addy1108 );
+ var addy36429 = 'nr.&#101;p&#105;d&#97;r&#111;' + '&#64;';
+ addy36429 = addy36429 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy36429 + suffix + '\'' + attribs + '>' );
+ document.write( addy36429 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26708,10 +26722,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy37771 = 'nr.&#111;ck&#111;v&#97;n&#105;&#101;' + '&#64;';
- addy37771 = addy37771 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy37771 + suffix + '\'' + attribs + '>' );
- document.write( addy37771 );
+ var addy4448 = 'nr.&#111;ck&#111;v&#97;n&#105;&#101;' + '&#64;';
+ addy4448 = addy4448 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy4448 + suffix + '\'' + attribs + '>' );
+ document.write( addy4448 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26750,10 +26764,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy25041 = 't&#111;.&#101;p&#105;d' + '&#64;';
- addy25041 = addy25041 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy25041 + suffix + '\'' + attribs + '>' );
- document.write( addy25041 );
+ var addy22623 = 't&#111;.&#101;p&#105;d' + '&#64;';
+ addy22623 = addy22623 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy22623 + suffix + '\'' + attribs + '>' );
+ document.write( addy22623 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26774,10 +26788,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy51372 = 't&#111;.n&#111;z&#111;k&#111;m&#105;&#97;lky' + '&#64;';
- addy51372 = addy51372 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy51372 + suffix + '\'' + attribs + '>' );
- document.write( addy51372 );
+ var addy87753 = 't&#111;.n&#111;z&#111;k&#111;m&#105;&#97;lky' + '&#64;';
+ addy87753 = addy87753 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy87753 + suffix + '\'' + attribs + '>' );
+ document.write( addy87753 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26801,7 +26815,7 @@
 <p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;">Trebišov</span></span></p>
 </td>
 <td style="width: 70.9pt; height: 4.7pt; border-width: 1pt medium; border-style: solid none; border-left-color: initial; border-right-color: initial; border-top-color: #a5a5a5; border-bottom-color: #a5a5a5; padding: 0cm 5.4pt;" width="95" valign="top">
-<p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;">905 680 305</span></span></p>
+<p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;">918 680 305</span></span></p>
 </td>
 <td rowspan="2" style="width: 117pt; height: 4.7pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-left-color: initial; border-right-color: #a5a5a5; border-top-color: #a5a5a5; border-bottom-color: #a5a5a5; padding: 0cm 5.4pt;" width="156" valign="top">
 <p style="line-height: normal; margin-bottom: 0px; margin-top: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="color: black;">
@@ -26811,10 +26825,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy95238 = 'tv.&#101;p&#105;d' + '&#64;';
- addy95238 = addy95238 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy95238 + suffix + '\'' + attribs + '>' );
- document.write( addy95238 );
+ var addy62028 = 'tv.&#101;p&#105;d' + '&#64;';
+ addy62028 = addy62028 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy62028 + suffix + '\'' + attribs + '>' );
+ document.write( addy62028 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26853,10 +26867,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy4942 = 'tn.c&#111;v&#105;d19' + '&#64;';
- addy4942 = addy4942 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy4942 + suffix + '\'' + attribs + '>' );
- document.write( addy4942 );
+ var addy11989 = 'tn.c&#111;v&#105;d19' + '&#64;';
+ addy11989 = addy11989 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy11989 + suffix + '\'' + attribs + '>' );
+ document.write( addy11989 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26890,10 +26904,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy24168 = 'tt.&#101;p&#105;d&#97;' + '&#64;';
- addy24168 = addy24168 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy24168 + suffix + '\'' + attribs + '>' );
- document.write( addy24168 );
+ var addy56181 = 'tt.&#101;p&#105;d&#97;' + '&#64;';
+ addy56181 = addy56181 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy56181 + suffix + '\'' + attribs + '>' );
+ document.write( addy56181 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26927,10 +26941,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy29476 = 'mt.&#101;p&#105;d' + '&#64;';
- addy29476 = addy29476 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy29476 + suffix + '\'' + attribs + '>' );
- document.write( addy29476 );
+ var addy11322 = 'mt.&#101;p&#105;d' + '&#64;';
+ addy11322 = addy11322 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy11322 + suffix + '\'' + attribs + '>' );
+ document.write( addy11322 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -26964,10 +26978,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy78965 = 'dk.&#101;pd' + '&#64;';
- addy78965 = addy78965 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy78965 + suffix + '\'' + attribs + '>' );
- document.write( addy78965 );
+ var addy99772 = 'dk.&#101;pd' + '&#64;';
+ addy99772 = addy99772 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy99772 + suffix + '\'' + attribs + '>' );
+ document.write( addy99772 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27015,10 +27029,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy59489 = 'vt.&#101;p&#105;d' + '&#64;';
- addy59489 = addy59489 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy59489 + suffix + '\'' + attribs + '>' );
- document.write( addy59489 );
+ var addy22826 = 'vt.&#101;p&#105;d' + '&#64;';
+ addy22826 = addy22826 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy22826 + suffix + '\'' + attribs + '>' );
+ document.write( addy22826 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27052,10 +27066,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy73804 = 'nr.&#101;p&#105;d&#97;r&#111;' + '&#64;';
- addy73804 = addy73804 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy73804 + suffix + '\'' + attribs + '>' );
- document.write( addy73804 );
+ var addy40962 = 'nr.&#101;p&#105;d&#97;r&#111;' + '&#64;';
+ addy40962 = addy40962 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy40962 + suffix + '\'' + attribs + '>' );
+ document.write( addy40962 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27076,10 +27090,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy92792 = 'nr.&#111;ck&#111;v&#97;n&#105;&#101;' + '&#64;';
- addy92792 = addy92792 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy92792 + suffix + '\'' + attribs + '>' );
- document.write( addy92792 );
+ var addy88907 = 'nr.&#111;ck&#111;v&#97;n&#105;&#101;' + '&#64;';
+ addy88907 = addy88907 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy88907 + suffix + '\'' + attribs + '>' );
+ document.write( addy88907 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27118,10 +27132,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy48809 = 'zv.&#101;p&#105;d' + '&#64;';
- addy48809 = addy48809 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy48809 + suffix + '\'' + attribs + '>' );
- document.write( addy48809 );
+ var addy35923 = 'zv.&#101;p&#105;d' + '&#64;';
+ addy35923 = addy35923 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy35923 + suffix + '\'' + attribs + '>' );
+ document.write( addy35923 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27155,10 +27169,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy87752 = 'zh.&#101;p&#105;d' + '&#64;';
- addy87752 = addy87752 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy87752 + suffix + '\'' + attribs + '>' );
- document.write( addy87752 );
+ var addy6290 = 'zh.&#101;p&#105;d' + '&#64;';
+ addy6290 = addy6290 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy6290 + suffix + '\'' + attribs + '>' );
+ document.write( addy6290 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27197,10 +27211,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy34819 = 'zh.&#101;p&#105;d' + '&#64;';
- addy34819 = addy34819 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy34819 + suffix + '\'' + attribs + '>' );
- document.write( addy34819 );
+ var addy2173 = 'zh.&#101;p&#105;d' + '&#64;';
+ addy2173 = addy2173 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy2173 + suffix + '\'' + attribs + '>' );
+ document.write( addy2173 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27239,10 +27253,10 @@
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy77229 = 'z&#97;.&#101;p&#105;' + '&#64;';
- addy77229 = addy77229 + '&#117;vzsr' + '&#46;' + 'sk';
- document.write( '<a ' + path + '\'' + prefix + addy77229 + suffix + '\'' + attribs + '>' );
- document.write( addy77229 );
+ var addy7891 = 'z&#97;.&#101;p&#105;' + '&#64;';
+ addy7891 = addy7891 + '&#117;vzsr' + '&#46;' + 'sk';
+ document.write( '<a ' + path + '\'' + prefix + addy7891 + suffix + '\'' + attribs + '>' );
+ document.write( addy7891 );
  document.write( '<\/a>' );
  //-->
  </script><script language="JavaScript" type="text/javascript">
@@ -27267,7 +27281,7 @@
 </table>
 </div>
 <p style="margin-top: 0px; margin-bottom: 0px;"><span face="Arial" style="font-family: Arial; font-size: 10pt;"> <span style="line-height: 107%;"> </span></span></p>
-<p style="text-align: center; margin-top: 0px; margin-bottom: 0px;" align="center"><span face="Arial" style="font-family: Arial; font-size: 10pt;"><b> <span style="line-height: 107%;">Telefónne čísla sú k dispozícii v pracovné dni od 7:00 do 15:00.</span></b></span></p>]]></content:encoded>
+<p style="text-align: center; margin-top: 0px; margin-bottom: 0px;" align="center"><span face="Arial" style="font-family: Arial; font-size: 10pt;"><b> <span style="line-height: 107%;">Telefónne čísla sú k dispozícii v pracovné dni od 8:00 do 15:00.</span></b></span></p>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
